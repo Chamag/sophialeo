@@ -16,6 +16,16 @@
 	}
 }
 
+.headerpic {
+	width: 100%;
+	max-width: 800px;
+}
+
+.titlepic {
+	width: 100%;
+	max-width: 350px;
+}
+
 body {
 	font-family: Avenir;
 	margin: 0px;
@@ -92,7 +102,11 @@ a:visited{
 a:hover{
 	color: #9dce4c;
 }
-        
+
+.rsvp {
+	padding: 5%;
+	margin: auto;
+}    
 
 button {
 	
