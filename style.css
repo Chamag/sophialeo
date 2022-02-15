@@ -26,6 +26,16 @@
 	max-width: 350px;
 }
 
+.pics {
+	width: 100%;
+	max-width: 380px;
+}
+
+.footerpic {
+	width: 100%;
+	max-width: 350px;
+}
+
 body {
 	font-family: Avenir;
 	margin: 0px;
