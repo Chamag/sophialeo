@@ -127,15 +127,12 @@ button {
     font-size: 12px;
     text-decoration: none;
 	box-shadow: inset 0 0 0 var(--border-size) currentcolor;
-	transition: background .8s ease;
-    
-	}
+	transition: background .8s ease;    
+}
 	
-	button:hover {
-		color: #9dce4c;
-	}
-	
-	
+button:hover {
+	color: #9dce4c;
+}
 
 #footer {
 	text-align: center;
