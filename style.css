@@ -4,18 +4,6 @@
 	src: url('fonts/avenir_ff/AvenirLTStd-Roman.otf');
 }
 
-@media screen and (max-width: 600px) {
-	.column {
-	width: 100%;
-	}
-}
-
-@media screen and (max-width: 600px) {
-	.header {
-	width: 100%;
-	}
-}
-
 .headerpic {
 	width: 100%;
 	max-width: 800px;
@@ -172,4 +160,16 @@ hr {
     border-style: inset; 
     border-width: 1px;
 	color: #9dce4c;
+}
+
+@media screen and (max-width: 600px) {
+	.column {
+	width: 100%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.header {
+	width: 100%;
+	}
 }
